@@ -1,5 +1,5 @@
 //
-//  main.c
+//  bubbleSort1.c
 //
 //  Created by LucreciaLin on 2019/3/24.
 //  Copyright © 2019 LucreciaLin. All rights reserved.
