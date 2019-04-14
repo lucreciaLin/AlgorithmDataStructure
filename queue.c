@@ -1,6 +1,5 @@
 //
 //  queue.c
-//  ch2-1
 //
 //  Created by LucreciaLin on 2019/4/14.
 //  Copyright © 2019 LucreciaLin. All rights reserved.
