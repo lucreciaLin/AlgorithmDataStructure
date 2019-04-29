@@ -58,7 +58,7 @@ int main()
     
     while (aQueue.head < aQueue.tail && bQueue.head < bQueue.tail)   // 當任一玩家手上沒紙牌時，代表遊戲結束。
     {
-        play(&aQueue, (int *)book, &stack);
+        play(&aQueue, (int *)book, &stack);     // 轉型，解決「Incompatible pointer types passing 'int (*)[10]' to parameter of type 'int *'」問題。
         play(&bQueue, (int *)book, &stack);
     }
     
