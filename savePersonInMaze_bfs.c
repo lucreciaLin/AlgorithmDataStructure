@@ -5,6 +5,12 @@
 //  Copyright © 2019 LucreciaLin. All rights reserved.
 //
 
+/*
+ 
+ 在二維迷宮中，如何用最少步數搜救到迷路的人？
+ 
+ */
+
 #include <stdio.h>
 
 struct note                          // 用一個結構體實作queue。
